@@ -1,4 +1,4 @@
-const SHELL_CACHE = "jung-shell-v1";
+const SHELL_CACHE = "jung-shell-v2";
 const RUNTIME_CACHE = "jung-runtime-v1";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest",
   "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png", "./splash.png"];
